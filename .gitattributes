@@ -1,0 +1,2 @@
+*.nemo filter=lfs diff=lfs merge=lfs -text
+typhoon-asr-realtime.nemo filter=lfs diff=lfs merge=lfs -text
